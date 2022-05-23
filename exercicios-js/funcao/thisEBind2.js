@@ -9,3 +9,5 @@ function Pessoa() {
 }
 
 new Pessoa 
+
+//F8 roda F9 para
