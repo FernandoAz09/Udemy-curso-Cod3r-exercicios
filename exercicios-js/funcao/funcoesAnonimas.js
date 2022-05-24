@@ -10,7 +10,7 @@ imprimirResultado(3, 4, function (x, y) {
 imprimirResultado(3, 4, (x, y) => x * y)
 
 const pessoa = {
-    falar: function () {
+    falar() {
         console.log('Opa')
     }
 }
